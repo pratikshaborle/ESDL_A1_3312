@@ -1,5 +1,6 @@
 #include <iostream.h>
 void main()
 {
-cout<<"\nHello World";
+cout<<"\nHello";
+cout<<"Hiii...!!!!";
 }
