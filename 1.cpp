@@ -1,6 +1,7 @@
 #include <iostream.h>
 void main()
 {
-cout<<"\nHello";
+cout<<"\nHey";
 cout<<"Hiii...!!!!";
+cout<<"Whats up???";
 }
